@@ -7,6 +7,7 @@ import { DestinationPage } from './pages/DestinationPage.jsx';
 import { RegisterPage } from './pages/RegisterPage.jsx';
 
 export default function App() {
+  // este es un cambio en la rama dev
   return (
     <BrowserRouter>
       <AuthProvider>
